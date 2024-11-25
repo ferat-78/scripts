@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "please input a number and name: "
+
+read number
+read name
+#Display entered number
+echo "your entered: " $number = $name
+ 
